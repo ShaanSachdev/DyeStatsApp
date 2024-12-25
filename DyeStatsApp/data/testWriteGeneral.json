@@ -1,0 +1,34 @@
+{
+    "lol": [{
+        "leagueName": "legends",
+        "key": "1"
+    }],
+    "lop": [
+        {
+            "wins": 100,
+            "playerLeagues": [{
+                "leagueName": "legends",
+                "key": "1"
+            }],
+            "selfSinks": 0,
+            "playerName": "Vonduski",
+            "selfSinkRate": 0,
+            "winRate": 100,
+            "losses": 0,
+            "played": 100
+        },
+        {
+            "wins": 1,
+            "playerLeagues": [{
+                "leagueName": "legends",
+                "key": "1"
+            }],
+            "selfSinks": 0,
+            "playerName": "BBBK",
+            "selfSinkRate": 0,
+            "winRate": 1,
+            "losses": 0,
+            "played": 1
+        }
+    ]
+}

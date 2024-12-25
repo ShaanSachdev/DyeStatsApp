@@ -1,0 +1,66 @@
+{
+    "lop": [
+        {
+            "playerName": "Jack",
+            "played": 1,
+            "wins": 1,
+            "losses": 0,
+            "selfSinks": 0,
+            "winRate": 100,
+            "selfSinkRate": 0,
+            "playerLeagues": [{
+                "key":"1",
+                "leagueName":"legends"
+            }]
+            
+        },
+        {
+            "playerName": "John",
+            "played": 2,
+            "wins": 1,
+            "losses": 1,
+            "selfSinks": 0,
+            "winRate": 50,
+            "selfSinkRate": 0,
+            "playerLeagues": [{
+                "key":"1",
+                "leagueName":"legends"
+            },
+            {
+                "key":"2",
+                "leagueName":"legends2"
+            }]
+        },
+        {
+            "playerName": "Curtis",
+            "played": 3,
+            "wins": 1,
+            "losses": 2,
+            "selfSinks": 1,
+            "winRate": 67,
+            "selfSinkRate": 33,
+            "playerLeagues": [{
+                "key":"1",
+                "leagueName":"legends"
+            },
+            {
+                "key":"2",
+                "leagueName":"legends2"
+            }]
+        }
+    ],
+    "lol": [
+        {
+            "key":"1",
+            "leagueName":"legends"
+        },
+        {
+            "key":"2",
+            "leagueName":"legends2"
+        },
+        {
+            "key":"3",
+            "leagueName":"legends3"
+        }
+    ]
+}
