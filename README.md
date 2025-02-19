@@ -39,11 +39,7 @@ The application will also graph these statistics, allowing visual comnparison be
 - You can save the state of my application by selecting the "Save Changes" button on the left side of the main window.
 - You can reload the state of my application by selecting the "Load Data" button on the left side of the main window.
 
-# Phase 4: Task 2
-![alt text](image.png)
-
-
-# Phase 4: Task 3
+# Phase 4: Conclusion
 
 In conclusion, I believe my program has a relativeky straight-forward design. However, there are a few things I would change if I could spend more time on this project.
 
