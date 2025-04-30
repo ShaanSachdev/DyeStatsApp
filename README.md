@@ -5,7 +5,7 @@ My personal project is an application that revolves around the game of **'beer' 
 - win rate, 
 - self-sink rate, etc. 
 
-The application will also graph these statistics, allowing visual comnparison between people. In addition this, The application is to allow the end users to join leagues created within the application. Each league will have its own standings table and require a key to join. By default the standings will be determinded by win rate percentage. This aligns with the key targeted user group for the application of **groups of friends** (primarily those in their late teens or early twenties) who enjoy the game and, just like myself, get competitive about it. 
+The application will also graph these statistics, allowing visual comparison between people. In addition this, The application is to allow the end users to join leagues created within the application. Each league will have its own standings table and require a key to join. By default the standings will be determinded by win rate percentage. This aligns with the key targeted user group for the application of **groups of friends** (primarily those in their late teens or early twenties) who enjoy the game and, just like myself, get competitive about it. 
 
 ## User Stories
 - As a user, I want to be able to create/add a new players.
